@@ -1,0 +1,18 @@
+{
+  "id": 2404201324042013,
+  "category": {
+    "id": 1,
+    "name": "cat"
+  },
+  "name": "Garfield",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2022,
+      "name": "feline"
+    }
+  ],
+  "status": "sold"
+}
